@@ -1,0 +1,7 @@
+/home/pau/prac/aserde/src/main/java/es/pic/astro/hadoop/recarray/serde/RecArraySerDe.java
+/home/pau/prac/aserde/src/main/java/es/pic/astro/hadoop/io/BinaryOutputFormat.java
+/home/pau/prac/aserde/src/main/java/es/pic/astro/hadoop/io/ReadFitsFile.java
+/home/pau/prac/aserde/src/main/java/es/pic/astro/hadoop/serde/RecordWritable.java
+/home/pau/prac/aserde/src/main/java/es/pic/astro/hadoop/io/FitsInputFormat.java
+/home/pau/prac/aserde/src/main/java/es/pic/astro/hadoop/io/FitsRecordReader.java
+/home/pau/prac/aserde/src/main/java/es/pic/astro/hadoop/serde/RecArraySerDe.java
